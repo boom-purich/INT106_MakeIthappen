@@ -1,0 +1,74 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
+</head>
+<body>
+<div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
+
+  <!-- First Photo Grid-->
+  <div class="w3-row-padding w3-padding-16 w3-center" id="food">
+    <div class="w3-quarter">
+      <img src="img\Lips\Casual Colour.jpg" alt="Sandwich" style="width:100%">
+      <h3>Casual Colour</h3>
+      <p>เนื้อครีมหนึ่งเดียวที่แต่งแต้มได้ทั้งพวกแก้วและริมฝีปากให้สีที่สวยซอฟ์ทแบบลุคธรรมชาติ</p>
+      <button type="button" class="btn btn-success" style="background: black; border: black ">950 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\Lips\Lipstick  M·A·C Shadescents.jpg" alt="Steak" style="width:100%">
+      <h3>Lipstick  M·A·C Shadescents</h3>
+      <p>เฉดสีอันเป็นเอกลักษณ์เฉพาะ
+   โดดเด่นในเรื่องของคุณภาพและความมีรสนิยม</p>
+        <button type="button" class="btn btn-success" style="background: black; border: black ">990 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\Lips\Lipstick James Kaliardos.jpg" alt="Cherries" style="width:100%">
+      <h3>Lipstick James Kaliardos</h3>
+      <p>4 เฉดสีและ 4 เท็กซ์เจอร์ที่เขาได้เลือกแล้วว่าเป็นไอเท็มที่ทุกคนคู่ควร</p>
+         <button type="button" class="btn btn-success" style="background: black; border: black ">1,100 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\Lips\Lipstick Viva Glam Taraji P henson.jpg" alt="Pasta and Wine" style="width:100%">
+      <h3>Lipstick Viva Glam Taraji P henson</h3>
+      <p>ลิปสติกอันทรงพลัง จากแรงบันดาลใจและความสวยอย่างมีสไตล์ของสาว Taraji P Henson</p>
+         <button type="button" class="btn btn-success" style="background: black; border: black ">850 บาท</button>
+    </div>
+  </div>
+
+  <!-- Second Photo Grid-->
+  <div class="w3-row-padding w3-padding-16 w3-center">
+    <div class="w3-quarter">
+      <img src="img\Lips\Liptensity Lipstick.jpg" alt="Popsicle" style="width:100%">
+      <h3>Liptensity Lipstick</h3>
+      <p>ความฉ่ำแห่งสูตรผสมที่เกิดจากการสร้างสรรค์แม่สี ได้รับการคิดค้นดั่งวงล้อแห่งสี</p>
+         <button type="button" class="btn btn-success" style="background: black; border: black ">1,100 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\Lips\RetroMatteLiquidLipColourKabukiMagic.jpg" alt="Salmon" style="width:100%">
+      <h3>Retro Matte Liquid Lip Colour Kabuki Magic</h3>
+      <p>หรูหราไร้กาลเวลาสำหรับผู้ที่ตกหลุมรักความแมตต์ ให้สัมผัสแห้งเบาสบาย</p>
+         <button type="button" class="btn btn-success" style="background: black; border: black ">1,100 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\Lips\Tendertalk Lip Balm.jpg" alt="Sandwich" style="width:100%">
+      <h3>Tendertalk Lip Balm</h3>
+      <p>ลิปบาล์มบำรุง ริมฝีปากที่จะให้ประกายสีบางเบา</p>
+     <button type="button" class="btn btn-success" style="background: black; border: black ">990 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\Lips\Velvetease Lip Pencil.jpg" alt="Croissant" style="width:100%">
+      <h3>Velvetease Lip Pencil</h3>
+      <p>ลิปเพ็นซิลที่ให้เนื้อเมคอัพนุ่มละมุนกับเนื้อสัมผัสแมตต์
+  ให้สีชัดสวย</p>
+      <button type="button" class="btn btn-success" style="background: black; border: black ">950 บาท</button>
+    </div>
+  </div>
+  </body>
+</html>

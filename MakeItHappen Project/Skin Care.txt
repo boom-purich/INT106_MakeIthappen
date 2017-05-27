@@ -1,0 +1,73 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
+</head>
+<body>
+<div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
+
+  <!-- First Photo Grid-->
+  <div class="w3-row-padding w3-padding-16 w3-center" id="food">
+    <div class="w3-quarter">
+      <img src="img\skincare\1.Cleanse Off Oil.png" alt="Sandwich" style="width:100%">
+      <h3>Cleanse Off Oil</h3>
+      <p>ผลิตภัณฑ์ทำความสะอาดผิว เช็ดเครื่องสำอางอ่อนโยนต่อผิวประกอบด้วยน้ำมันจากพฤกษชาติเช่นผลมะกอก , อีฟนิ่งพริมโรสและเมล็ดโจโจ้บา</p>
+      <button type="button" class="btn btn-success" style="background: black; border: black ">1,400 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\skincare\2.Wipes.png" alt="Steak" style="width:100%">
+      <h3>Wipes</h3>
+      <p>ที่สุดของการทำความสะอาดใบหน้าที่แต่งแต้มไปด้วยเครื่องสำอางได้อย่างหมดจดรวมถึงรอยเปรอะเปื้อน สิ่งสกปรกหรือแม้กระทั่งฝุ่น</p>
+        <button type="button" class="btn btn-success" style="background: black; border: black ">1,000 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\skincare\3.Lightful C Marine-Bright Formula Essence.png" alt="Cherries" style="width:100%">
+      <h3>Lightful C Marine-Bright Formula Essence</h3>
+      <p>เซรั่มบำรุงผิวสูตรล้ำลึ้ก ทรงประสิทธ์ภาพด้วยคุณค่าของ Marine Bright Complex วิตามินซีและ Super-Duo Charged Water ให้ผลลัพธ์ผิวสวยกระจ่างใสขึ้น</p>
+         <button type="button" class="btn btn-success" style="background: black; border: black ">2,310 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\skincare\4.Mineralize Timecheck Lotion.png" alt="Pasta and Wine" style="width:100%">
+      <h3>Mineralize Timecheck Lotion</h3>
+      <p>ครีมบำรุงผิวที่ช่วยเติมเต็มความฉ่ำของผิวด้วยแร่ธาติและส่วนผสมที่จะผนึกกำลังต่อสู้กับกาลเวลา</p>
+         <button type="button" class="btn btn-success" style="background: black; border: black ">2,310 บาท</button>
+    </div>
+  </div>
+
+  <!-- Second Photo Grid-->
+  <div class="w3-row-padding w3-padding-16 w3-center">
+    <div class="w3-quarter">
+      <img src="img\skincare\5.Prep + Prime Fix +.png" alt="Popsicle" style="width:100%">
+      <h3>Prep + Prime Fix +</h3>
+      <p>สเปรย์น้ำแร่ Fix+ อุดมไปด้วยแร่ธาตุคืนความสดชื่นสู่ผิวได้ชุ่มชื่นพร้อมรับการแต่งหน้าได้อย่างเต็มรูปแบบ</p>
+         <button type="button" class="btn btn-success" style="background: black; border: black ">1,100 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\skincare\6.Lip Conditioner (Tube).png" alt="Salmon" style="width:100%">
+      <h3>Lip Conditioner (Tube)</h3>
+      <p>ลิปบาล์มบำรุงริมฝีปาก เพิ่มความชุ่มชื่นและช่วงคงความนุ่มนวลได้นานยิ่งขึ้น ด้วยส่วนผสมของน้ำมันอัลมอนด์ เชียบัตเตอร์ น้ำมันสกัดจากผลอโวคาโด น้ำมันจมูกข้าวสาลี วิตามินเอ และ อี</p>
+         <button type="button" class="btn btn-success" style="background: black; border: black ">850 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\skincare\7.Turquatic 50ML.png" alt="Sandwich" style="width:100%">
+      <h3>Air of Style 50 ml</h3>
+      <p>รายล้อมรอบตัวคุณด้วยความมีชีวิตชีวา มั่นใจ และสดชื่นในแบบของความมีสุขภาพดี เริ่มท็อปโน๊ตด้วยกลิ่นของ Red dates และ Wild peonies ที่ให้ความรู้สึกร่วมสมัยที่เบรนด์ละมุนไปกับ White pepper</p>
+     <button type="button" class="btn btn-success" style="background: black; border: black ">1,700 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\skincare\8.Air of Style 50 ml.png" alt="Croissant" style="width:100%">
+      <h3>Turquatic 50MLh</h3>
+      <p>ตัวเลือกใหม่ของเราขนาด 50 ม.ล.สำหรับผู้ที่เสพติด Turquatic แล้วประกอบด้วย Anemone, Lotus, Orris, และ Corsican Blue Cedar ขนาาดที่ใหญ่ขึ้น</p>
+      <button type="button" class="btn btn-success" style="background: black; border: black ">2,350 บาท</button>
+    </div>
+  </div>
+
+  </body>
+</html>

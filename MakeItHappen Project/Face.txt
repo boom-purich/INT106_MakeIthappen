@@ -1,0 +1,73 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
+</head>
+<body>
+<div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
+
+  <!-- First Photo Grid-->
+  <div class="w3-row-padding w3-padding-16 w3-center" id="food">
+    <div class="w3-quarter">
+      <img src="img\Faces\1-Mineralize Moisture SPF15 Foundation.png" alt="Sandwich" style="width:100%">
+      <h3>Mineralize Moisture SPF15 Foundation</h3>
+      <p>นวัตกรรมรองพื้นสูตรใหม่กับส่วนผสมสูตรพิเศษที่เปี่ยมคุณค่าการบำรุงด้วยเนื้อครีมสูตรบางเบา</p>
+      <button type="button" class="btn btn-success" style="background: black; border: black ">1,920 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\Faces\2-Studio Fix Perfecting Powder.png" alt="Steak" style="width:100%">
+      <h3>Studio Fix Perfecting Powder</h3>
+      <p>ผลผลิตจากการทดลองจริงด้วยการใช้กับแบ็คสเตจ เพิ่มเติมด้วยสองผลิตใหม่ที่มาพร้อมคุณภาพแบบโปร</p>
+        <button type="button" class="btn btn-success" style="background: black; border: black ">1,300 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\Faces\3-Studio Fix Powder Plus Foundation.png" alt="Cherries" style="width:100%">
+      <h3>Studio Fix Powder Plus Foundation</h3>
+      <p>แป้งผสมรองพื้นสรรสร้างผิวสวยไร้ที่ติในขั้นตอนเดียว</p>
+         <button type="button" class="btn btn-success" style="background: black; border: black ">1,600 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\Faces\4-Powder Blush Duo- Today We Live.png" alt="Pasta and Wine" style="width:100%">
+      <h3>Powder Blush Duo Today We Live</h3>
+      <p>เพราะเรารู้ว่าการแต่งปัดแก้มให้สวยนั้นต้องมีเลเยอร์ของ 2 สีที่มอบมิติให้กับใบหน้าและต้องเป็นสีที่เบลนคู่กันได้อย่างลงตัว</p>
+         <button type="button" class="btn btn-success" style="background: black; border: black ">1,050 บาท</button>
+    </div>
+  </div>
+
+  <!-- Second Photo Grid-->
+  <div class="w3-row-padding w3-padding-16 w3-center">
+    <div class="w3-quarter">
+      <img src="img\Faces\5-Studio Fix Perfecting Stick.png" alt="Popsicle" style="width:100%">
+      <h3>Studio Fix Perfecting Stick</h3>
+      <p>Chubby pencil ที่จะช่วยซ่อนเร้นจุดหมองคล้ำ รอยดำรอบดวงตา รวมไปถึงรอยสิวและริ้วรอยอันไม่พึงปรารถนาอื่น ๆ</p>
+         <button type="button" class="btn btn-success" style="background: black; border: black ">900 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\Faces\6-Studio Conceal and Correct Duo.png" alt="Salmon" style="width:100%">
+      <h3>Studio Conceal and Correct Duo</h3>
+      <p>คอนซีลเลอร์และคอลเลคเตอร์สำหรับระดับมืออาชีพ</p>
+         <button type="button" class="btn btn-success" style="background: black; border: black ">1,200 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\Faces\7-Prep + Prime BB Beauty Balm SPF 35.png" alt="Sandwich" style="width:100%">
+      <h3>Prep + Prime BB Beauty Balm SPF 35</h3>
+      <p>ช่วยทำให้ผิวพรรณดูนุ่มเนียนขึ้นอีกครั้ง มี SPF 35</p>
+     <button type="button" class="btn btn-success" style="background: black; border: black ">1,700 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\Faces\8-Pigment.png" alt="Croissant" style="width:100%">
+      <h3>Pigment</h3>
+      <p>นวัตกรรมรองพื้นสูตรใหม่กับส่วนผสมสูตรพิเศษที่เปี่ยมคุณค่าการบำรุงด้วยเนื้อครีมสูตรบางเบาให้ความรู้สึกนุ่มดุจกำมะหยี่ได้ในทันทีที่สัมผัส</p>
+      <button type="button" class="btn btn-success" style="background: black; border: black ">1,100 บาท</button>
+    </div>
+  </div>
+
+  </body>
+</html>

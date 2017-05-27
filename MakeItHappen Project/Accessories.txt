@@ -1,0 +1,73 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
+</head>
+<body>
+<div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
+
+  <!-- First Photo Grid-->
+  <div class="w3-row-padding w3-padding-16 w3-center" id="food">
+    <div class="w3-quarter">
+      <img src="img\Ass\1.LOOK IN A BOX ADVANCED BRUSH.png" alt="Sandwich" style="width:100%">
+      <h3>LOOK IN A BOX ADVANCED BRUSH KIT</h3>
+      <p>ุดแปรงแต่งหน้า MAC LOOK IN A BOX ประกอบด้วย4แปรง ที่ช่วยยกระดับการแต่งหน้าของคุณขึ้นให้ใกล้เคียงกับการแต่งหน้าแบบมืออาชีพที่สุด</p>
+      <button type="button" class="btn btn-success" style="background: black; border: black ">1,825 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\Ass\2.Linear 1 Brush.png" alt="Steak" style="width:100%">
+      <h3>Linear 1 Brush</h3>
+      <p>แปรง Linear 1 ออกแบบรูปทรงให้ขนแปรงสั้นและแคบ เหมาะสำหรับใช้วาดเส้นเล็กๆบนขนตาบนและล่าง เขียนเส้นคิ้วหรือเขียนขอบปากได้ง่ายดาย</p>
+        <button type="button" class="btn btn-success" style="background: black; border: black ">1,350 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\Ass\3.230SE Multipurpose Detailing Brush Diane Kendal.png" alt="Cherries" style="width:100%">
+      <h3>230SE Multipurpose Detailing Brush / Diane Kendal</h3>
+      <p>แปรงแต่งหน้าเอนกประสงค์ที่ออกแบบมาเพื่อการเบลนอายแชโดว์ให้ฟุ้งสวยได้รูป ใช้สำหรับทาคอนซีลเลอร์เฉพาะจุด หรือจะให้ทำลิปสติกให้ได้รูปสวยตามที่เราวาดก็ได้เช่นเดียวกัน</p>
+         <button type="button" class="btn btn-success" style="background: black; border: black ">1,350 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\Ass\4.208 Angled Brow Brush.png" alt="Pasta and Wine" style="width:100%">
+      <h3>208 Angled Brow Brush</h3>
+      <p>ใช้ทาสีที่คิ้ว ใช้สำหรับเน้นให้เด่นชัดหรือเติม "ให้เต็ม" ขนแปรงที่เป็นมุมแหลมทำให้ทาได้อย่างมืออาชีพ</p>
+         <button type="button" class="btn btn-success" style="background: black; border: black ">1,090 บาท</button>
+    </div>
+  </div>
+
+  <!-- Second Photo Grid-->
+  <div class="w3-row-padding w3-padding-16 w3-center">
+    <div class="w3-quarter">
+      <img src="img\Ass\5.316 Lip Brush.png" alt="Popsicle" style="width:100%">
+      <h3>316 Lip Brush</h3>
+      <p>แปรงทาลิปสติก ให้ขนแปรงที่นุ่มเบาจับตัวแน่นพอดี ใช้ทาเนื้อเมคอัพได้ง่ายขึ้นและให้ผลลัพท์ที่เนียนสวยแม่นยำและรวดเร็ว</p>
+         <button type="button" class="btn btn-success" style="background: black; border: black ">1,250 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\Ass\6.Oval 6 Brush.png" alt="Salmon" style="width:100%">
+      <h3>Oval 6 Brush</h3>
+      <p>แปรง Oval6 ใช้สำหรับเกลี่ยเมคอัพเนื้อครีม ลิควิดและแป้ง เหมาะพิเศษสำหรับการลงรองพื้นเนื้อมูส น้ำ หรือเจล ขนแปรงออกแบบให้หนานุ่มพิเศษ</p>
+         <button type="button" class="btn btn-success" style="background: black; border: black ">2,220 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\Ass\7.130SH Short Duo Fibre Brush.png" alt="Sandwich" style="width:100%">
+      <h3>130SH Short Duo Fibre Brush</h3>
+      <p>แปรง Duo Fibre ขนปลายตัดแบบสั้น ออกแบบมาเพื่อทารองพื้นและเมคอัพเนื้อครีมโดยเฉพาะ ขนแปรงจับตัวแน่นเกลี่ยเมคอัพได้อย่างเรียบเนียนละเอียด</p>
+     <button type="button" class="btn btn-success" style="background: black; border: black ">2,150 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\Ass\8.164 Duo Fibre Curved Sculpting Brush.png" alt="Croissant" style="width:100%">
+      <h3>164 Duo Fibre Curved Sculpting Brush</h3>
+      <p>ตอบโจทย์การทำคอนทัวร์ให้ไปหน้าได้รูปดูมีมิติด้วยขนแปรงแบบ Duo Fibre รูปทรงหัวตัด ง่ายทั้งเนื้อแป้งและครีมขนแปรงนุ่มได้รูปพอด</p>
+      <button type="button" class="btn btn-success" style="background: black; border: black ">1,850 บาท</button>
+    </div>
+  </div>
+
+  </body>
+</html>

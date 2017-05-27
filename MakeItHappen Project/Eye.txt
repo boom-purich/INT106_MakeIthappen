@@ -1,0 +1,74 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
+</head>
+<body>
+<div class="w3-main w3-content w3-padding" style="max-width:1200px;margin-top:100px">
+
+  <!-- First Photo Grid-->
+  <div class="w3-row-padding w3-padding-16 w3-center" id="food">
+    <div class="w3-quarter">
+      <img src="img\eye\1.Eye Shadow X 15 In The Flesh.png" alt="Sandwich" style="width:100%">
+      <h3>Eye Shadow X 15  In The Flesh</h3>
+      <p>อายแชโดว์พาแลตต์ X15 รวมโทนสีน้ำตาลธรรมชาติ และสีโทนสโมคกี้ที่ฮอตได้ทุกฤดูกาล พร้อมครีเอทลุคได้อย่างสนุกหลากหลายในพาแลตตเดียว</p>
+      <button type="button" class="btn btn-success" style="background: black; border: black ">4,200 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\eye\2.Eye Shadow X 9  Red-Hot Times Nine.png" alt="Steak" style="width:100%">
+      <h3>Eye Shadow X 9  Red-Hot Times Nine</h3>
+      <p>อายแชโดว์พาเลท X9 โทนสีแดงอมชมพู สีชมพูน้ำตาล และสีชมพูอมส้ม มาพร้อมกับคู่สีที่พร้อมแต่งเข้าด้วยกันได้หลากลุค</p>
+        <button type="button" class="btn btn-success" style="background: black; border: black ">1,900 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\eye\3.Jumbo Penultimate Eye Liner  James Kaliardos.png" alt="Cherries" style="width:100%">
+      <h3>Jumbo Penultimate Eye Liner  James Kaliardos</h3>
+      <p>อายไลเนอร์รูปแบบปากกาชนิดน้ำที่ให้เส้นสุดประณีต ดูเด่นมีสีดำเข้มเหมือนถ่าน</p>
+         <button type="button" class="btn btn-success" style="background: black; border: black ">970 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\eye\4.False Lashes Maximizer.png" alt="Pasta and Wine" style="width:100%">
+      <h3>False Lashes Maximizer</h3>
+      <p>เจลบำรุงขนตาที่ช่วยปรนเปรอ และมอบความเย้ายวนมีเสน่ห์ให้กับขนตาของคุณ</p>
+         <button type="button" class="btn btn-success" style="background: black; border: black ">1,120 บาท</button>
+    </div>
+  </div>
+
+  <!-- Second Photo Grid-->
+  <div class="w3-row-padding w3-padding-16 w3-center">
+    <div class="w3-quarter">
+      <img src="img\eye\5.Brow Set.png" alt="Popsicle" style="width:100%">
+      <h3>Brow Set</h3>
+      <p>ตกแต่งคิ้วให้สวยด้วยเจลบลัชที่มาพร้อมแปรงบัดคิ้ว ช่วยเติมความเงาและการเซ็ทตัวของขนอย่างมีสไตล์</p>
+         <button type="button" class="btn btn-success" style="background: black; border: black ">890 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\eye\6.50 Small Cluster Lash  James Kaliardos.png" alt="Salmon" style="width:100%">
+      <h3>#50 Small Cluster Lash / James Kaliardos</h3>
+      <p>ขนตาสังเคราะห์ที่ให้ลุคเหมือนขนตาจริง ดูสวยได้รูป ตัดแต่งได้ให้เหมาะกับรูปตาของแต่ละคน ขนตาดูเรียงเส้นได้รูปทรง</p>
+         <button type="button" class="btn btn-success" style="background: black; border: black ">650 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\eye\7.2 Lash.png" alt="Sandwich" style="width:100%">
+      <h3>Lash</h3>
+      <p>เพิ่มความยาว เน้นขอบด้านนอกที่เป็นทำเป็นมัดเล็กๆ</p>
+     <button type="button" class="btn btn-success" style="background: black; border: black ">650 บาท</button>
+    </div>
+    <div class="w3-quarter">
+      <img src="img\eye\8.31Lash.png" alt="Croissant" style="width:100%">
+      <h3>31 Lash</h3>
+      <p>ความยาวตามธรรมชาติ ทำเป็นมัดเล็กๆ เหมาะสำหรับผู้ที่ต้องการให้ขนตาดูดกเป็นพิเศษทุกวัน</p>
+      <button type="button" class="btn btn-success" style="background: black; border: black ">650 บาท</button>
+    </div>
+  </div>
+
+
+  </body>
+</html>
